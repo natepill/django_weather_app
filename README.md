@@ -1,14 +1,7 @@
-# Proposal - Django App Describing Weather
+# Proposal - Django Weather Report
 
 ## Description:
-Utilizing Keras emotion classification model and Flask REST API, users can track public sentiment in real time and view their results in their dashboard that will be powered by Django.
 
-## Features:
-* Authenticated users
-* Save model results and public sentiment for viewing in dashboard
-
-
-## TODO and Notes:
-* Probably don't need to utilize Flask API, just make it into Django project app
-*
-* Deploy Keras Model
+* Get the forecast and weather of desired location
+* Users don't need to be authenticated, simply add a city that they wish to track
+* Utilizes openweathermap.org API

@@ -1,4 +1,4 @@
-# Proposal - Dashboard for tracking hashtag sentiment
+# Proposal - Django App Describing Weather
 
 ## Description:
 Utilizing Keras emotion classification model and Flask REST API, users can track public sentiment in real time and view their results in their dashboard that will be powered by Django.

@@ -9,7 +9,7 @@ model-mommy==1.0
 
 
 
-Django==2.2.2
+Django==2.2.18
 gunicorn==19.9.0
 h5py==2.9.0
 hyperlink==18.0.0
